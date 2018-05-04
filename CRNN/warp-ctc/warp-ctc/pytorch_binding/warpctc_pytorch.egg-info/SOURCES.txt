@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+/home/jingbi/CRNN-for-sequence-recognition--master/warp-ctc/warp-ctc/pytorch_binding/src/binding.cpp
+warpctc_pytorch/__init__.py
+warpctc_pytorch.egg-info/PKG-INFO
+warpctc_pytorch.egg-info/SOURCES.txt
+warpctc_pytorch.egg-info/dependency_links.txt
+warpctc_pytorch.egg-info/top_level.txt
+warpctc_pytorch/_warp_ctc/__init__.py

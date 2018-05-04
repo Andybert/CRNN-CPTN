@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: warpctc-pytorch
+Version: 0.1
+Summary: PyTorch wrapper for warp-ctc
+Home-page: https://github.com/baidu-research/warp-ctc
+Author: Jared Casper, Sean Naren
+Author-email: jared.casper@baidu.com, sean.narenthiran@digitalreasoning.com
+License: Apache
+Description: UNKNOWN
+Platform: UNKNOWN

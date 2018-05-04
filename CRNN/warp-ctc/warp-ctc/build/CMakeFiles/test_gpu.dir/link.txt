@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -fopenmp  -rdynamic CMakeFiles/test_gpu.dir/tests/random.cpp.o CMakeFiles/test_gpu.dir/tests/test_gpu_generated_test_gpu.cu.o  -o test_gpu /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt libwarpctc.so /usr/local/cuda/lib64/libcurand.so /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
